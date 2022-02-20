@@ -1,0 +1,113 @@
+{
+    "Apple MacBook Pro 13 Mid 2019": {
+        "create": "2019",
+        "family": "MackBook",
+        "name": "Apple MacBook Pro 13 Mid 2019",
+        "type": "description models",
+        "specifications": [
+            "экран: 13.3 (2560x1600) IPS",
+            "процессор: Intel Core i5 (4x2.40 ГГц)",
+            "память: RAM 8 ГБ (2133 МГц)",
+            "видеокарта: встроенная, Intel Iris Plus Graphics 655",
+            "разъемы: Thunderbolt 3 x 4, микрофон/наушники Combo",
+            "фунционал USB Type-C: Thunderbolt 3",
+            "беспроводная связь: Wi-Fi 802.11ac, Bluetooth 5.0",
+            "емкость аккумулятора: 58 Вт⋅ч",
+            "время работы от аккумулятора: 10 ч",
+            "операционная система: macOS",
+            "pазмеры: 304.1x212.4x14.9 мм",
+            "вес: 1.37 кг"
+        ],
+        "description": []
+    },
+
+            "Apple MacBook Pro 13 Mid 2019 (2560x1600, Intel Core i5 2.4 ГГц, RAM 8 ГБ, SSD 512 ГБ)": {
+                "id": "7772112",
+                "name": "Apple MacBook Pro 13 Mid 2019",
+                "color": "Silver",
+                "family": "MacBook",
+                "type": "models",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4386141/img_id8799570787656897288.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4331935/img_id7359415232738328301.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/1909520/img_id9122935228801361312.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/1592349/img_id4002255497543224415.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4372959/img_id1843892053051884358.jpeg/orig"
+                ],
+                "price": "152 990"
+            },
+
+    "Apple MacBook Pro 15 Mid 2019": {
+        "create": "2019",
+        "family": "MackBook",
+        "name": "Apple MacBook Pro 15 Mid 2019",
+        "type": "description models",
+        "specifications": [
+            "экран: 15.4 (2880x1800) IPS",
+            "процессор: Intel Core i9 9980HK (8x2.40 ГГц)",
+            "память: RAM 32 ГБ (2400 МГц), SSD 4096 ГБ",
+            "видеокарта: AMD Radeon Pro Vega 20 4 ГБ",
+            "разъемы: Thunderbolt 3 x 4, микрофон/наушники Combo",
+            "фунционал USB Type-C: Thunderbolt 3",
+            "беспроводная связь: Wi-Fi 802.11ac, Bluetooth 5.0",
+            "емкость аккумулятора: 6580 мА⋅ч",
+            "время работы от аккумулятора: 10 ч",
+            "операционная система: macOS",
+            "pазмеры: 349.3x240.7x15.5 мм",
+            "вес: 1.83 кг"
+        ],
+        "description": []
+    },
+
+            "Apple MacBook Pro 15 Mid 2019 (2880x1800, Intel Core i9 2.4 ГГц, RAM 32 ГБ, SSD 4096 ГБ, Radeon Pro Vega 20)": {
+                "id": "7772113",
+                "name": "Apple MacBook Pro 15 Mid 2019",
+                "color": "Dark Silver",
+                "family": "MacBook",
+                "type": "models",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4076910/img_id6569589196182769571.jpeg/13hq",
+                    "https://avatars.mds.yandex.net/get-mpic/4410238/img_id5680493538927787406.jpeg/13hq",
+                    "https://avatars.mds.yandex.net/get-mpic/4220209/img_id2628810481109835896.jpeg/13hq",
+                    "https://avatars.mds.yandex.net/get-mpic/3925628/img_id4664770841613473128.jpeg/13hq",
+                    "https://avatars.mds.yandex.net/get-mpic/4331935/img_id3265411956321990977.jpeg/13hq"
+                ],
+                "price": "162 990"
+            },
+
+    "Apple MacBook Air 13": {
+        "create": "2019",
+        "family": "MackBook",
+        "name": "Apple MacBook Air 13",
+        "type": "description models",
+        "specifications": [
+            "экран: 13.3 (2560x1600) IPS",
+            "процессор: Intel Core i3",
+            "память: RAM 8 ГБ (3733 МГц), SSD 2 ТБ",
+            "видеокарта: встроенная, Intel Iris Plus Graphics",
+            "разъемы: Thunderbolt 3 x 2, микрофон/наушники Combo",
+            "фунционал USB Type-C: Thunderbolt 3",
+            "беспроводная связь: Wi-Fi 802.11ac, Bluetooth 5.0",
+            "емкость аккумулятора: 49.9 Вт⋅ч",
+            "операционная система: macOS",
+            "pазмеры: 304.1x212.4x16.1 мм",
+            "вес: 1.29 кг"
+        ],
+        "description": []
+    },
+
+            "Apple MacBook Air 13 (2560x1600, Intel Core i3, RAM 8 ГБ, SSD 2 ТБ)": {
+                "id": "7772114",
+                "name": "Apple MacBook Air 13",
+                "color": "Silver",
+                "family": "MacBook",
+                "type": "models",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5278457/img_id2771618885700448427.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5277894/img_id8797613653044690200.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5334770/img_id7581517824120252409.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5245452/img_id8875090190677656696.jpeg/orig"
+                ],
+                "price": "118 990"
+            }
+}

@@ -1,0 +1,60 @@
+.app {
+    width: 100%;
+    max-width: 2048px;
+    .main {
+        margin-left: 80px;
+    }
+    .container-content {
+        margin: 0 auto;
+        margin-top: 70px;
+        margin-bottom: 50px;
+        padding-top: 20px;
+        min-height: 200px;
+        display: grid;
+        grid-template-columns: 20% 20% 20% 20%;
+        gap: 5%;
+        row-gap: 25px;
+        grid-template-rows: 350px;
+        justify-content: center;
+    }
+}
+
+@media screen and(max-width: 1450px) {
+    .app {
+        .fake {
+            gap: 4%;
+            row-gap: 25px;
+        }
+    }
+}
+
+@media screen and(max-width: 1350px) {
+    .app {
+        .fake {
+            grid-template-columns: 30% 30% 30%;
+            gap: 2%;
+            margin-left: 50px;
+        }
+    }
+}
+
+@media screen and(max-width: 1090px) {
+    .app {
+        .fake {
+            grid-template-columns: 48% 48%;
+            gap: 4%;
+            margin-left: 10px;
+            row-gap: 25px;
+        }
+    }
+}
+
+@media screen and(max-width: 675px) {
+    .app {
+        .fake {
+            grid-template-columns: 90%;
+            margin-left: 0px;
+            row-gap: 25px;
+        }
+    }
+}

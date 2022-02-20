@@ -1,0 +1,13 @@
+.grid-container {
+    margin: 0 auto;
+    margin-top: 70px;
+    margin-bottom: 50px;
+    padding-top: 20px;
+    min-height: 200px;
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+    gap: 5%;
+    row-gap: 25px;
+    grid-template-rows: 350px;
+    justify-content: center;
+}

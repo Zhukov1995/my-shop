@@ -1,0 +1,10 @@
+footer {
+    height: 150px;
+    background-color: rgb(236, 236, 232);
+    padding: 35px;
+    display: flex;
+    justify-content: space-between;
+    .info {
+        line-height: 30px;
+    }
+}

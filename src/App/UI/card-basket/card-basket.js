@@ -1,0 +1,87 @@
+
+import { useEffect } from 'react';
+import { useState } from 'react';
+import { useDispatch, useSelector } from 'react-redux';
+import { resultAddNewID, 
+        resultDeleteID, 
+        UIdeleteID, 
+        incTotalShopCounter, 
+        decTotalShopCounter, 
+        corectTotalShopCounter, 
+        resultDeleteTargetAllID } from '../../actions/actions';
+
+import './card-basket.scss';
+
+const CardBasket = (props) => {
+    const { image, title, price, color, memory, item } = props;
+
+    const [itemCounter, setItemCounter] = useState(1);
+
+    const UIarrIDitem = useSelector(state => state.UIarrIDitem)
+    const resultArrIDitem = useSelector(state => state.resultArrIDitem)
+
+    const dispatch = useDispatch();
+
+    // функция проверки копий одинаковых товаров.Меняем локальный state только в случае если копий больше одной 
+    const localCheckingCopies = (array, newID) => {
+        const localItemCounter = array.filter(item => item === newID);
+        if (localItemCounter.length > 1) {
+            setItemCounter(localItemCounter.length);
+        }
+    }
+    // При создании страницы корзины мы один раз вызываем ее и дальше вызываем только при изменении общего числа товаров
+    useEffect(() => {
+        localCheckingCopies(resultArrIDitem, item[1].id);
+        // eslint-disable-next-line
+    }, [resultArrIDitem]);
+
+    // функция удаления ID из результирующего массива
+    const deleteIDBasket = (id) => {
+        let index = UIarrIDitem.indexOf(id);
+        if (index !== -1 && itemCounter > 1) {
+            dispatch(resultDeleteID(index))
+            setItemCounter(itemCounter - 1)
+            dispatch(decTotalShopCounter())
+        }
+    }
+
+    // функция добавления ID в результирующий массив
+    const addnewIDBasket = (id) => {
+        dispatch(resultAddNewID(id))
+        setItemCounter(itemCounter + 1)
+        dispatch(incTotalShopCounter())
+    }
+
+    // функция полного удаления карточки товара из корзины.Удаляем из UI и из результирующего массива
+    const deleteTargetCardBasket = (id) => {
+        const UIindex = UIarrIDitem.indexOf(id);
+        const resultIndex = resultArrIDitem.indexOf(id);
+        if(UIindex !== -1 && resultIndex !== -1) {
+            dispatch(resultDeleteTargetAllID(id))
+            dispatch(UIdeleteID(UIindex))
+            dispatch(corectTotalShopCounter(itemCounter))
+            setItemCounter(1)
+        }
+    }
+
+
+    return (
+        <div className="card-basket">
+            <div className="card-basket-img-block">
+                <img src={image} alt={title} />
+            </div>
+            <div className="name">{`${title} ${memory}ГБ, ${color}`}</div>
+            <div className="count">
+                <button onClick={() => addnewIDBasket(item[1].id)}>+</button>
+                {itemCounter}
+                <button onClick={() => deleteIDBasket(item[1].id)}>-</button>
+            </div>
+            <div className="price">{price} руб</div>
+            <div className="delete">
+                <button onClick = {() => deleteTargetCardBasket(item[1].id)}>Удалить этот товар</button>
+            </div>
+        </div>
+    )
+}
+
+export default CardBasket;
