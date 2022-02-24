@@ -8,3 +8,4 @@ export const resultDeleteID = (index) => ({type:'RESULT_DELETE_ID', payload:inde
 export const setLabelTotalCounter = (name) => ({type: 'SET_LABEL_TOTAL_COUNTER', payload: name})
 export const resultDeleteTargetAllID = (id) => ({type: 'RESULT_DELETE_TARGET_ALL_ID', payload: id})
 export const calculateAllSumBasket = (allPrice) => ({type: 'CALCULATE_ALL_SUM_BASKET', payload: allPrice})
+export const setTargetItemID = (id) => ({type: 'SET_TARGET_ITEM_ID', payload: id})

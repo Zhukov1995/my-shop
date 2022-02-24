@@ -1,14 +1,16 @@
 import { useRef, useState } from 'react';
 import { useDispatch, useSelector } from 'react-redux';
-import { resultAddNewID, UIaddNewID, incTotalShopCounter } from '../../actions/actions';
+import { NavLink } from 'react-router-dom';
+import { resultAddNewID, UIaddNewID, incTotalShopCounter, setTargetItemID } from '../../actions/actions';
+import checkingCopies from '../../functions/checkingCopies';
 import './card-product.scss';
 
 const CardProduct = (props) => {
     const { image, title, price, color, memory, item } = props;
     const [countImg, setCountImg] = useState(1);
-    const UIarrIDitem = useSelector(state => state.UIarrIDitem);
-    const dispatch = useDispatch();
+    const UIarrIDitem = useSelector(state => state.UIarrIDitem)
 
+    const dispatch = useDispatch();
 
     const imgRef = useRef(null);
 
@@ -22,17 +24,10 @@ const CardProduct = (props) => {
             }
         }
     }
-    // функция проверки UI копий, нужна для того чтобы не рендерить один и тот же элемент в корзине дважды
-    const checkingCopies = (array, newID) => {
-        const itemCounter = array.filter(item => item === newID);
-        if (itemCounter.length === 0) {
-            return true
-        } else {
-            return false
-        }
-    }
+    
     // если checking - true значит такого элемента нет в корзине и мы его добавляем в рендер.
-    const addNewIDBasket = (id) => {
+    const addNewIDBasket = (e,id) => {
+        e.stopPropagation();
         const checking = checkingCopies(UIarrIDitem, id);
         if (checking) {
             dispatch(UIaddNewID(id))
@@ -41,18 +36,20 @@ const CardProduct = (props) => {
         dispatch(incTotalShopCounter())
     }
 
-
     return (
-        <div className="card">
+        
+        <div className="card" onClick={() => dispatch(setTargetItemID(item[1].id))}>
+            <NavLink to='/item' className='wrapper-card-link'>
             <div className='card-img-block'>
                 <img ref={imgRef} src={image[0]} alt={title} onMouseOver={getNextlImg} />
             </div>
             <h3 className='card-title'>{`${title} ${memory}ГБ, ${color}`}</h3>
+            </NavLink>
             <p className='card-price'>{`${price} руб`}</p>
             <button
                 type='button'
                 className='card-btn'
-                onClick={() => addNewIDBasket(item[1].id)}>
+                onClick={(e) => addNewIDBasket(e,item[1].id)}>
                 В корзину
             </button>
         </div>

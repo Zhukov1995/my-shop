@@ -4,6 +4,7 @@ const initialState = {
     UIarrIDitem: [],
     resultArrIDitem: [],
     allSumBasket: 0,
+    targetItemID: '8882100'
 }
 
 const reducer = (state = initialState,action) => {
@@ -43,6 +44,8 @@ const reducer = (state = initialState,action) => {
             return {...state, labelTotalShopCounter: action.payload}
         case 'CALCULATE_ALL_SUM_BASKET':
             return {...state, allSumBasket: action.payload}
+        case 'SET_TARGET_ITEM_ID':
+            return {...state, targetItemID: action.payload}
         default: return state
     }
 }

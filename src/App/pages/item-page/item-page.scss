@@ -1,0 +1,81 @@
+.item-page {
+    width: 90%;
+    height: 1000px;
+    margin: 0 auto;
+    margin-top: 100px;
+    .wrapper {
+        width: 70%;
+        display: flex;
+        justify-content: space-between;
+        .item-image-block {
+            width: 700px;
+            height: 550px;
+            display: flex;
+            .item-image-list {
+                width: 100px;
+                height: 450px;
+                margin-top: 50px;
+                list-style: none;
+                li {
+                    margin-top: 15px;
+                    img {
+                        max-width: 100px;
+                        max-height: 100px;
+                        display: block;
+                        margin: 0 auto;
+                    }
+                }
+            }
+            .item-target-image {
+                max-width: 500px;
+                max-height: 600px;
+                margin-top: 20px;
+                margin-left: 50px;
+            }
+        }
+        .item-info-block {
+            width: 500px;
+            margin-top: 5px;
+            h3 {
+                margin: 20px 0px 20px 20px;
+            }
+            .info-block-list {
+                list-style: none;
+                min-height: 390px;
+                li {
+                    margin-bottom: 10px;
+                    padding-left: 10px;
+                    font-weight: 600;
+                    &::before {
+                        content: '- ';
+                    }
+                }
+            }
+            button {
+                width: 300px;
+                height: 40px;
+                border-radius: 50px;
+                margin-top: 20px;
+                border:none;
+                border: 1px solid silver;
+                background-color: yellow;
+                font-weight: 600;
+            }
+        }
+    }
+    .description {
+        height: 300px;
+        width: 65%;
+        margin-top: 50px;
+        margin-left: 30px;
+        h3 {
+            margin-top: 15px;
+        }
+        ul {
+            list-style: none;
+            li {
+                margin-top: 10px;
+            }
+        }
+    }
+}

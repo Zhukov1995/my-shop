@@ -11,6 +11,7 @@ import { resultAddNewID,
         resultDeleteTargetAllID } from '../../actions/actions';
 
 import './card-basket.scss';
+import deleteImg from './delete.svg'
 
 const CardBasket = (props) => {
     const { image, title, price, color, memory, item } = props;
@@ -78,7 +79,10 @@ const CardBasket = (props) => {
             </div>
             <div className="price">{price} руб</div>
             <div className="delete">
-                <button onClick = {() => deleteTargetCardBasket(item[1].id)}>Удалить этот товар</button>
+                
+                <button onClick = {() => deleteTargetCardBasket(item[1].id)}>
+                <img src={deleteImg} alt="delete" />
+                </button>
             </div>
         </div>
     )

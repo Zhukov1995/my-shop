@@ -8,6 +8,7 @@ import MainPage from './pages/main-page/main-page';
 import { Routes, Route } from 'react-router-dom';
 
 import './app.scss';
+import ItemPage from './pages/item-page/item-page';
 
 
 
@@ -35,6 +36,11 @@ const App = () => {
                         exact
                         path='/basket'
                         element={<BasketPage />}
+                    />
+                    <Route 
+                        exact 
+                        path='/item'
+                        element = {<ItemPage />}    
                     />
                 </Routes>
                 <Footer />
