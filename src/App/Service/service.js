@@ -1,8 +1,12 @@
     import DataBaseIpad from './data-base/data-base-ipad.json';
+    import DataBaseIphone from './data-base/data-base-iphone.json';
+    import DataBaseWatch from './data-base/data-base-watch.json';
+    import DataBaseMac from './data-base/data-base-mac.json';
     
     class Service {
         getData = () => {
-            const data = Object.entries(DataBaseIpad);
+            const allDataBase = Object.assign(DataBaseIphone,DataBaseIpad,DataBaseWatch,DataBaseMac)
+            const data = Object.entries(allDataBase);
             return data;
         }
 
@@ -20,6 +24,21 @@
         getTargetModel = (id) => {
             const model = this.getAllModels().filter(item => item[1].id === id)
             return model;
+        }
+
+        getNewModels = () => {
+            const newModels = this.getAllModels().filter(item => item[1].hasOwnProperty('newProduct'))
+            return newModels;
+        }
+
+        getSaleModels = () => {
+            const saleModels = this.getAllModels().filter(item => item[1].hasOwnProperty('salePrice'))
+            return saleModels;
+        }
+
+        getProductOfTheDay = () => {
+            const productOfTheDay = this.getAllModels().filter(item => item[1].hasOwnProperty('productOfTheDay'))
+            return productOfTheDay;
         }
 
         getDescription = (itemName) => {

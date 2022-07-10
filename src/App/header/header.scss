@@ -1,18 +1,16 @@
 header {
-    width: 95%;
+    width: 96%;
     max-width: 2048px;
     height: 70px;
     display: flex;
     justify-content: space-between;
     position: fixed;
     top: 0;
-    border-bottom: 1px solid silver;
+    border-bottom: 1px solid rgb(142, 140, 140);
     background-color:white;
     z-index: 1;
     .logo {
         width: 150px;
-        // display: flex;
-        // justify-content: space-between;
         line-height: 70px;
         margin-left: 5px;
         .logo-img {

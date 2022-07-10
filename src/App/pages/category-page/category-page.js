@@ -14,6 +14,7 @@ const CategoryPage = ({typeTechnic}) => {
                     image={item[1].image} 
                     title={item[1].name} 
                     price={item[1].price}
+                    salePrice={item[1].salePrice}
                     color={item[1].color}
                     memory={item[1].memory} 
                     key={item[1].id}

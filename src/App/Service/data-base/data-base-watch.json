@@ -1,0 +1,193 @@
+{
+    "Apple Watch Series 3 42mm": {
+        "create": 2017,
+        "family": "watch",
+        "name": "Apple Watch Series 3 42mm",
+        "type": "description models",
+        "specifications": [
+            "Экран: 1.65 (312x390) OLED",
+            "Материал корпуса: алюминий",
+            "Материал браслета/ремешка: силикон",
+            "Защищенность: защита от ударов, влагозащита",
+            "Совместимость: iOS",
+            "Беспроводная связь: NFC, Wi-Fi, вывод аудио на Bluetooth-устройства, Bluetooth, GPS, ГЛОНАСC",
+            "Мониторинг: постоянное измерение пульса, мониторинг сна, мониторинг физической активности, акселерометр, мониторинг калорий",
+            "Операционная система: Watch OS"
+        ],
+        "description": [
+            "Часы Apple Watch Series 3 обладают множеством полезных функций, которые мотивируют на новые достижения, помогают быть активнее и позволяют оставаться на связи.",
+            "В часы встроен помощник Siri, который может говорить. Часы оснащены встроенным высотомером, а также предлагают умные подсказки о физической активности.",
+            "Вы сможете легко управлять любимыми плей-листами. Также в часах предусмотрено усовершенствованное приложение «Пульс»."
+        ]
+    },
+
+        "Apple Watch Series 3 42mm Black": {
+            "id": "6668301",
+            "color": "black",
+            "name": "Apple Watch Series 3 42mm",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4012481/img_id317481029493052128.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4120567/img_id513053528224726952.jpeg/orig"
+            ],
+            "price": "33 500"
+        },
+
+        "Apple Watch Series 3 42mm White": {
+            "id": "6668302",
+            "color": "white",
+            "name": "Apple Watch Series 3 42mm",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4012481/img_id3093023395181003126.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/1332324/img_id5524932644229212324.jpeg/orig"
+            ],
+            "price": "38 288"
+        },
+
+    "Apple Watch Series SE": {
+        "create": 2018,
+        "family": "watch",
+        "name": "Apple Watch Series SE",
+        "type": "description models",
+        "specifications": [
+            "Материал корпуса: алюминий",
+            "Материал браслета/ремешка: силикон",
+            "Защищенность: защита от ударов, влагозащита",
+            "Совместимость: iOS",
+            "Беспроводная связь: NFC, Wi-Fi, вывод аудио на Bluetooth-устройства, Bluetooth, GPS, ГЛОНАСC",
+            "Мониторинг: постоянное измерение пульса, мониторинг сна, мониторинг физической активности, акселерометр, мониторинг калорий",
+            "Операционная система: Watch OS"
+        ],
+        "description": [
+            "Часы Apple Watch SE обладают множеством полезных функций, которые мотивируют на новые достижения, помогают быть активнее и позволяют оставаться на связи.",
+            "В часы встроен помощник Siri, который может говорить. Часы оснащены встроенным высотомером, а также предлагают умные подсказки о физической активности.",
+            "Вы сможете легко управлять любимыми плей-листами. Также в часах предусмотрено усовершенствованное приложение «Пульс»."
+        ]
+    },
+
+        "Apple Watch Series SE,44mm White": {
+            "id": "6668303",
+            "color": "white",
+            "name": "Apple Watch Series SE",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5246132/img_id7521806881285220599.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5234850/img_id6523823483899555726.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5311850/img_id7344439437555581970.png/orig"
+            ],
+            "price": "36 999"
+        },
+
+        "Apple Watch Series SE,44mm Black": {
+            "id": "6668304",
+            "color": "black",
+            "name": "Apple Watch Series SE",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5251231/img_id2930885892816727789.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5312993/img_id2303943327928205706.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/3980374/img_id525860004668404084.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5220932/img_id3312586347811635560.jpeg/orig"
+            ],
+            "price": "36 999",
+            "newProduct": "true"
+        },
+
+        "Apple Watch Series SE,44mm Blue": {
+            "id": "6668305",
+            "color": "blue",
+            "name": "Apple Watch Series SE",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5288893/img_id7617171334705994979.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5363625/img_id912150550702365894.jpeg/orig"
+            ],
+            "price": "39 990",
+            "newProduct": "true"
+        },
+
+    "Apple Watch Series 7": {
+        "create": 2021,
+        "family": "watch",
+        "name": "Apple Watch Series 7",
+        "type": "description models",
+        "specifications": [
+            "Материал корпуса: алюминий",
+            "Материал браслета/ремешка: силикон",
+            "Защищенность: защита от ударов, влагозащита",
+            "Совместимость: iOS",
+            "Беспроводная связь: NFC, Wi-Fi, вывод аудио на Bluetooth-устройства, Bluetooth, GPS, ГЛОНАСC",
+            "Мониторинг: постоянное измерение пульса, мониторинг сна, мониторинг физической активности, акселерометр, мониторинг калорий",
+            "Операционная система: Watch OS"
+        ],
+        "description": [
+            "Часы Apple Watch 7 обладают множеством полезных функций, которые мотивируют на новые достижения, помогают быть активнее и позволяют оставаться на связи.",
+            "В часы встроен помощник Siri, который может говорить. Часы оснащены встроенным высотомером, а также предлагают умные подсказки о физической активности.",
+            "Вы сможете легко управлять любимыми плей-листами. Также в часах предусмотрено усовершенствованное приложение «Пульс»."
+        ]
+    },
+   
+        "Apple Watch Series 7,41mm Green": {
+            "id": "6668306",
+            "color": "green",
+            "name": "Apple Watch Series 7",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5227339/img_id174674458172403201.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5232956/img_id1212950981757281336.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5216721/img_id5882929878997584337.jpeg/orig"
+            ],
+            "price": "59 990",
+            "salePrice": "53 199"
+        },
+
+        "Apple Watch Series 7,41mm Red": {
+            "id": "6668307",
+            "color": "green",
+            "name": "Apple Watch Series 7",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5220693/img_id8157435051222347675.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5232583/img_id842336047304359601.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5032583/img_id1047338637812545695.jpeg/orig"
+            ],
+            "price": "51 699"
+        },
+
+        "Apple Watch Series 7,41mm Blue": {
+            "id": "6668308",
+            "color": "blue",
+            "name": "Apple Watch Series 7",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5221251/img_id1155907017610993527.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5221441/img_id406140357045796814.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4055794/img_id1523227209657041274.jpeg/orig"
+            ],
+            "price": "64 990"
+        },
+
+        "Apple Watch Series 7,41mm Black": {
+            "id": "6668309",
+            "color": "black",
+            "name": "Apple Watch Series 7",
+            "family": "watch",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5252277/img_id7149191381492592741.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5251330/img_id494834011947101908.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5245500/img_id6242372605934051032.jpeg/orig"
+            ],
+            "price": "64 490"
+        }
+
+}

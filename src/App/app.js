@@ -26,12 +26,40 @@ const App = () => {
                     />
                     <Route
                         exact
+                        path='/category/iphone'
+                        element={
+                            <CategoryPage
+                                typeTechnic={"iphone"}
+                            />
+                        }
+                    />
+                    <Route
+                        exact
                         path='/category/ipad'
                         element={
                             <CategoryPage
-                                typeTechnic="ipad"
+                                typeTechnic={"ipad"}
                             />
-                        } />
+                        } 
+                    />
+                     <Route
+                        exact
+                        path='/category/watch'
+                        element={
+                            <CategoryPage
+                                typeTechnic={"watch"}
+                            />
+                        } 
+                    />
+                     <Route
+                        exact
+                        path='/category/mac'
+                        element={
+                            <CategoryPage
+                                typeTechnic={"mac"}
+                            />
+                        } 
+                    />
                     <Route
                         exact
                         path='/basket'
@@ -50,3 +78,4 @@ const App = () => {
 }
 
 export default App;
+

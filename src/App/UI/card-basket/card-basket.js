@@ -29,6 +29,7 @@ const CardBasket = (props) => {
         if (localItemCounter.length > 1) {
             setItemCounter(localItemCounter.length);
         }
+        console.log(localItemCounter)
     }
     // При создании страницы корзины мы один раз вызываем ее и дальше вызываем только при изменении общего числа товаров
     useEffect(() => {
@@ -38,7 +39,7 @@ const CardBasket = (props) => {
 
     // функция удаления ID из результирующего массива
     const deleteIDBasket = (id) => {
-        let index = UIarrIDitem.indexOf(id);
+        let index = resultArrIDitem.indexOf(id);
         if (index !== -1 && itemCounter > 1) {
             dispatch(resultDeleteID(index))
             setItemCounter(itemCounter - 1)
@@ -61,7 +62,6 @@ const CardBasket = (props) => {
             dispatch(resultDeleteTargetAllID(id))
             dispatch(UIdeleteID(UIindex))
             dispatch(corectTotalShopCounter(itemCounter))
-            setItemCounter(1)
         }
     }
 

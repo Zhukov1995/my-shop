@@ -107,7 +107,8 @@
                     "https://avatars.mds.yandex.net/get-mpic/1864685/img_id699186983485646607.jpeg/orig",
                     "https://avatars.mds.yandex.net/get-mpic/4011308/img_id6964487436915723188.png/orig"
                 ],
-                "price": "60 189"
+                "price": "60 189",
+                "salePrice": "55 450"
             },
 
     "Apple iPad (2021) RU": {
@@ -218,7 +219,7 @@
                     "https://avatars.mds.yandex.net/get-mpic/4977172/img_id7046207896065312626.png/orig",
                     "https://avatars.mds.yandex.net/get-mpic/5215925/img_id5012115084979611500.jpeg/orig"
                 ],
-                "price": "98 799"                
+                "price": "98 799"               
             },
 
             "Apple iPad Pro 12.9 (2021) RU, 8 ГБ/256 ГБ": {
@@ -305,7 +306,8 @@
                     "https://avatars.mds.yandex.net/get-mpic/4407413/img_id7174914607530513278.jpeg/orig",
                     "https://avatars.mds.yandex.net/get-mpic/4615030/img_id7498922971306628839.jpeg/orig"
                 ],
-                "price": "79 780"
+                "price": "79 780",
+                "salePrice": "65 350"
             },
 
 
@@ -382,7 +384,9 @@
                     "https://avatars.mds.yandex.net/get-mpic/5231591/img_id6163063565216948533.jpeg/orig",
                     "https://avatars.mds.yandex.net/get-mpic/5186016/img_id79787397596651861.png/orig"
                 ],
-                "price": "82 321"
+                "price": "82 321",
+                "salePrice": "61 499",
+                "productOfTheDay": true
             },
 
             "Apple iPad Pro 11 (2021) RU,Space Grey": {
@@ -670,60 +674,5 @@
                     "https://avatars.mds.yandex.net/get-mpic/5204675/img_id8213792994513643046.png/orig"
                 ],
                 "price": "144 900"
-            },    
-
-
-
-
-
-
-
-
-
-
-
-
-    "Apple AirPods 2": {
-        "create": "2018",
-        "name": "Apple AirPods 2",
-        "family": "AirPods",
-        "type": "description models",
-        "specifications": [
-            "конструкция: вкладыши (открытые)",
-            "подключение: Bluetooth 5.0",
-            "тип зарядки кейса: Lightning",
-            "количество микрофонов: 2",
-            "тип излучателей: динамические",
-            "количество драйверов: 1",
-            "время работы: 5 ч",
-            "время работы от аккумулятора в кейсе: 24 ч",
-            "импеданс: 32 Ом",
-            "диапазон воспроизводимых частот: 20-20000 Гц"
-        ],
-        "description": [
-            "AirPods — это сочетание тщательно продуманного дизайна, передовых технологий и кристально чистого звука. Благодаря новому чипу H1 от Apple эти наушники могут работать в режиме телефонного разговора до 3 часов без подзарядки.",
-            "Автоматическое включение и подключение к устройству.",
-            "Новый чип H1 от Apple обеспечивает более быстрое беспроводное подключение наушников к устройствам.",
-            "Быстрая подзарядка в футляре.",
-            "Футляр заряжается через разъём Lightning.",
-            "Наушники работают с любым Bluetooth-устройством."
-        ]
-    },
-            "Apple AirPods 2 White": {
-                "id":"6662100",
-                "name": "Apple AirPods 2",
-                "color": "White",
-                "family": "AirPods",
-                "type": "models",
-                "image": [
-                    "https://avatars.mds.yandex.net/get-mpic/4412310/img_id8386850073624085644.png/orig",
-                    "https://avatars.mds.yandex.net/get-mpic/4291905/img_id2763508823482628135.png/orig",
-                    "https://avatars.mds.yandex.net/get-mpic/3694390/img_id7913448280716791524.png/orig",
-                    "https://avatars.mds.yandex.net/get-mpic/4080967/img_id6860024831816908000.jpeg/orig"
-                ],
-                "price": "10 980"
             }
-
-
-
 }

@@ -1,0 +1,33 @@
+.container {
+    max-width: 1260px;
+    margin: 0 auto;
+    margin-bottom: 50px;
+    padding: 5px;
+}
+
+.slick-arrow {
+    opacity: 0.7; 
+}
+
+.slick-prev, .slick-next {
+    width: 30px;
+    height: 50px;
+    background-color: silver;
+
+    &:hover {
+        opacity: 1;
+        background-color:silver;
+    }
+    &:focus {
+        outline: none;
+        background-color:silver;
+    }
+}
+
+.slick-prev {
+    margin-left: -45px;
+}
+
+.slick-next {
+    margin-right: -45px;
+}

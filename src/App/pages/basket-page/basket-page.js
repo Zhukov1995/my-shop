@@ -29,7 +29,7 @@ const BasketPage = () => {
 
     let listBasket = state.UIarrIDitem.map((id, index) => {
         const item = service.getTargetModel(id)
-        console.log(item)
+        
         return <CardBasket
             image={item[0][1].image[0]}
             title={item[0][1].name}

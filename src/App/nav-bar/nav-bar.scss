@@ -12,6 +12,11 @@ nav {
         color: white;
         img {
             width: 30px;
+            &:hover {
+                transform:rotate(-90deg);
+                transition: 1s;
+                
+            }
         }
     }
     ul {

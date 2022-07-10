@@ -25,7 +25,6 @@ const Header = () => {
                 </NavLink>
 
             </div>
-            <input type="text" className='search' placeholder='Поиск товаров' />
             <div className='basket'>
                 <NavLink to='/basket' activeclassname='active'>
                     <img src={Basket} alt="basket" />

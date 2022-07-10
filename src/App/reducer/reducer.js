@@ -1,7 +1,7 @@
 const initialState = {
     totalShopCounter: 0,
     labelTotalShopCounter: '',
-    UIarrIDitem: [],
+UIarrIDitem: [],
     resultArrIDitem: [],
     allSumBasket: 0,
     targetItemID: '8882100'

@@ -25,8 +25,16 @@ const NavBar = () => {
                         <img src={ipad} alt='ipad' className='nav-item-img' />
                     </NavLink>
                 </li>
-                <li><img src={watch} alt='watch' className='nav-item-img' /></li>
-                <li><img src={mac} alt='mac' className='nav-item-img' /></li>
+                <li>
+                    <NavLink to='/category/watch' activeclassname='active'>
+                        <img src={watch} alt='watch' className='nav-item-img' />
+                    </NavLink>
+                </li>
+                <li>
+                    <NavLink to='/category/mac' activeclassname='active'>
+                        <img src={mac} alt='mac' className='nav-item-img' />
+                    </NavLink>
+                </li>
             </ul>
         </nav>
     )
