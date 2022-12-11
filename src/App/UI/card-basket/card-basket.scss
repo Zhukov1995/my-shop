@@ -1,0 +1,56 @@
+.card-basket {
+    width: 95%;
+    height: 250px;
+    margin: 0 auto;
+    border: 1px solid rgb(214, 214, 214);
+    background-color: rgb(251, 252, 248);
+    border-radius: 15px;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    .card-basket-img-block {
+        width: 230px;
+        border-right: 1px solid rgb(221, 220, 220);
+        img {
+            display: block;
+            width: 120px;
+            margin: 0 auto;
+        }
+    }
+    .name {
+        border-right: 1px solid rgb(221, 220, 220);
+        font-size: 15px;
+        text-align: center;
+        width: 550px;
+    }
+    .count {
+        border-right: 1px solid rgb(221, 220, 220);
+        width: 350px;
+        text-align: center;
+        button {
+            background-color:rgb(231, 229, 229);
+            border: 1px solid rgb(221, 220, 220);
+            cursor:pointer; 
+            font-size: 12px;
+            width: 30px;
+            height: 15px;
+            margin: 5px;
+        }
+        }
+    .price {
+        border-right: 1px solid rgb(221, 220, 220);
+        width: 350px;
+        text-align: center;
+    }
+    .delete {
+        width: 240px;
+        text-align: center;
+        button {
+            background-color: transparent;
+            border: none;
+            cursor:pointer;
+        }
+    }
+}

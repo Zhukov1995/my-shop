@@ -1,0 +1,46 @@
+.section {
+    padding-top: 20px;
+    min-height: 350px;
+    border-bottom: 2px solid rgb(184, 187, 186);
+    h2 {
+        color:rgb(76, 79, 79);
+        text-align: center;
+        font-size: 25px;
+    }
+    hr {
+        position: relative;
+        font-size: 16px;
+        height: 16px;
+        border: 0;
+        width: 13%;
+        margin: 20px auto;
+        &:hover {
+            width: 35%;
+            transition: 2.5s;
+        }
+        &:before,
+        &:after {
+            content: "";
+            display: block;
+            position: absolute;
+            left: 0;
+            right: 0;
+            background-size: 18px 100%;
+            height: inherit;
+        }
+        &:before {
+            background-image: linear-gradient(315deg, rgba(191, 226, 255, 1) 30%, transparent 30%), linear-gradient(45deg, rgba(191, 226, 255, 1) 30%, transparent 30%);
+            background-position: 50%;
+            top: -8px;
+        }
+        &:after {
+            background-image: linear-gradient(135deg, rgba(191, 226, 255, 1) 30%, transparent 30%), linear-gradient(225deg, rgba(191, 226, 255, 1) 30%, transparent 30%);
+            background-position: calc(50% - 8px);
+            top: 8px;
+        }
+    }
+    .wrapper-children {
+        width: 70%;
+        margin: 0 auto;
+    }
+}

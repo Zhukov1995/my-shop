@@ -1,0 +1,38 @@
+{
+    "Apple MacBook Pro 16 Late 2021 ": {
+        "create": 2021,
+        "family": "mac",
+        "name": "Apple MacBook Pro 16 Late 2021",
+        "type": "description models",
+        "specifications": [
+            "Экран: 16.2 (3456x2234) IPS, 120 Гц",
+            "Процессор: Apple M1 Pro",
+            "Память: RAM 32 ГБ, SSD 512 ГБ",
+            "Видеокарта: встроенная, Apple graphics 16-core",
+            "Разъемы: выход HDMI, микрофон/наушники Combo, Thunderbolt 4 x 3",
+            "Беспроводная связь: Wi-Fi 802.11ax, Bluetooth 5.0",
+            "Операционная система: macOS",
+            "Pазмеры: 355.7x248.1x16.8 мм",
+            "Вес: 2.1 кг"
+        ],
+        "description": [
+            "Ноутбук 16 Apple MacBook Pro Z14Y/1/Z14Y0008C M1 Pro chip with 10 core CPU and 16 core GPU/32GB/512GB SSD/silver"
+        ]
+    },
+
+        "Apple MacBook Pro 16 Late 2021 (3456x2234, Apple M1 Pro, RAM 32 ГБ, SSD 512 ГБ, Apple graphics 16-core)": {
+            "id": "5558301",
+            "color": "silver",
+            "name": "Apple MacBook Pro 16 Late 2021",
+            "family": "mac",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5222168/img_id4521071045774676006.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5297750/img_id6160883643325700101.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5311850/img_id3629933821039628982.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5232651/img_id6578210175164153337.jpeg/orig"
+            ],
+            "price": "913 510",
+            "newProduct": "true"
+        }
+}

@@ -1,0 +1,70 @@
+.basket-page {
+    margin-top: 70px;
+    min-height: 80vh;
+    padding-bottom: 0px;
+    h1 {
+        text-align: center;
+        padding-top: 25vh;
+    }
+    h2 {
+        padding: 20px 0px 10px 40px;
+    }
+    .description-options {
+        width: 95%;
+        line-height: 30px;
+        margin: 0 auto;
+        display: flex;
+        justify-content: start;
+        margin-top: 15px;
+        .option_counter {
+            width: 780px;
+            padding-left: 10px;
+            font-weight: 600;
+        }
+        .option_label_count {
+            width: 350px;
+            text-align: center;
+        }
+        .option_label_price {
+            width: 350px;
+            text-align: center;
+        }
+        .option_label_delete {
+            width: 250px;
+            text-align: center;
+        }
+    }
+}
+
+.result-and-order {
+    width: 85%;
+    height: 150px;
+    margin: 0 auto;
+    margin-top: 5px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .result {
+        line-height: 40px;
+        font-size: 17px;
+        .result-info {
+            font-size: 14px;
+        }
+    }
+    button {
+        height: 50px;
+        width: 300px;
+        border-radius: 50px;
+        border: none;
+        background-color: rgb(235, 235, 92);
+        font-size: 17px;
+        &:hover {
+            background-color: rgb(237, 253, 10);
+            transition: ease 2s;
+        }
+        &:focus {
+            border: 1px solid silver;
+        }
+    }
+}

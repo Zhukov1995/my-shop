@@ -1,0 +1,678 @@
+{
+    "Apple iPad Air(2019)": {
+        "create": "2019",
+        "name": "Apple iPad Air (2019)",
+        "family": "ipad",
+        "type": "description models",
+        "specifications": [
+            "Беспроводная связь:A-GPS, Bluetooth, GPS, Wi-Fi, ГЛОНАСС",
+            "диагональ: 10.5 (2224x1668), Full HD IPS",
+            "процессор: Apple A12 Bionic",
+            "операционная система: iOS",
+            "камеры: основная 8 МП, фронтальная 7 МП",
+            "особенности: cканер отпечатка пальца, компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (30.2 Вт·ч)",
+            "размеры: 250.6x174.1x6.1 мм, вес"
+        ],
+        "description": [
+            "iPad Air.Всем любителям мощных технологий.iPad Air открывает широкий доступ к нашим самым передовым разработкам. Процессор A12 Bionic с системой Neural Engine. Дисплей Retina 10,5 дюйма с технологией True Tone. Кроме того, при толщине всего 6,1 мм iPad Air весит менее 500 г — вы легко сможете всегда держать его при себе.Всё, что вам нужно.",
+            "Никакого лишнего веса. Несмотря на большой дисплей Retina 10,5 дюйма, iPad Air очень компактный. Он отлично подходит для решения самых разных задач буквально на ходу. Для этого он оснащён самыми передовыми технологиями беспроводной связи, а также аккумулятором, который работает без подзарядки до 10 часов. То есть почти целый день.",
+            "Достаточно мощи для всего и сразу. Мощь и интеллект iPad Air обеспечиваются процессором A12 Bionic с системой Neural Engine. Процессор задействует технологии машинного обучения в режиме реального времени и открывает невероятные возможности для фотографии, игр, дополненной реальности и многого другого. Вы можете редактировать видео, делать впечатляющие презентации, проектировать 3D‑модели, смотреть любимые сериалы онлайн. И делать всё это одновременно."
+        ] 
+    },
+
+            "Apple iPad Air (2019), 256GB Gold": { 
+                "id": "8882100",
+                "color": "gold",
+                "name": "Apple iPad Air (2019)",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5220903/img_id8023844319875553721.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4887676/img_id6575647779044399581.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4615588/img_id5441341757755912507.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4372959/img_id8773454516390143803.jpeg/orig"
+                ],
+                "price": "64 489"
+            },
+
+
+    "Apple iPad mini(2019)": {
+        "create": "2019",
+        "family": "ipad",
+        "name": "Apple iPad mini(2019)",
+        "type": "description models",
+        "specifications": [
+            "Сотовая связь:нет",
+            "Объем встроенной памяти:64 ГБ, 256 ГБ",
+            "Объем оперативной памяти:3 ГБ",
+            "Беспроводная связь:Bluetooth, Wi-Fi",
+            "диагональ: 7.9 (2048x1536), Full HD IPS",
+            "процессор: Apple A12 Bionic",
+            "операционная система: iOS",
+            "камеры: основная 8 МП, фронтальная 7 МП",
+            "особенности: cканер отпечатка пальца, компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "емкость аккумулятора: 19.1 Вт·ч",
+            "размеры: 203.2x134.8x6.1 мм, вес"
+        ],
+        "description": [
+            "iPad mini идеально сочетает в себе компактность и производительность — за это его и любят. Теперь для любви появилось ещё больше поводов. Процессор A12 Bionic с системой Neural Engine. Дисплей Retina 7,9 дюйма с технологией True Tone. И поддержка Apple Pencil, чтобы вам было ещё проще следовать за вдохновением. Это всё тот же iPad mini, но теперь он умеет больше.",
+            "iPad mini невероятно тонкий, лёгкий и компактный, поэтому его можно брать с собой повсюду. Он весит 300,5 г при толщине 6,1 мм. Его удобно носить в руке, кармане или сумке. Теперь вдохновение не застанет вас врасплох.",
+            "Мощь и интеллект iPad mini обеспечиваются процессором A12 Bionic с системой Neural Engine. Используя технологии машинного обучения, процессор быстро распознаёт закономерности, предлагает свои варианты и учится на основе полученного опыта."
+        ]
+    },
+
+            "Apple iPad mini (2019), 256GB Space grey": {
+                "id": "8882101",
+                "name": "Apple iPad mini(2019)",
+                "color": "Space grey",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4119563/img_id4106779106882498791.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/1864685/img_id699186983485646607.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4011308/img_id6964487436915723188.png/orig"
+                ],
+                "price": "53 014"
+            },
+            "Apple iPad mini (2019), 64GB Gold": {
+                "id": "8882102",
+                "name": "Apple iPad mini(2019)",
+                "color": "Gold",
+                "memory": "64",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4343092/img_id396144743414333069.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/1767083/img_id284148687922246963.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/2008455/img_id4354168787236900353.jpeg/orig"
+                ],
+                "price": "57 949"
+            },
+            "Apple iPad mini (2019), 256GB": {
+                "id": "8882103",
+                "name": "Apple iPad mini(2019)",
+                "color": "Space grey",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4119563/img_id4106779106882498791.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/1864685/img_id699186983485646607.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4011308/img_id6964487436915723188.png/orig"
+                ],
+                "price": "60 189",
+                "salePrice": "55 450"
+            },
+
+    "Apple iPad (2021) RU": {
+        "create": "2021",
+        "family": "ipad",
+        "name": "Apple iPad (2021) RU",
+        "type": "description models",
+        "specifications": [
+            "Беспроводная связь:Bluetooth, Wi-Fi",
+            "диагональ: 10.2 (2160x1620), IPS",
+            "процессор: Apple A13 Bionic",
+            "операционная система: iOS",
+            "камеры: основная 8 МП, фронтальная 12 МП",
+            "особенности: cканер отпечатка пальца, компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (32.4 Вт·ч)",
+            "размеры: 250.6x174.1x7.5 мм, вес: 487 г"
+        ],
+        "description": []
+    },
+
+            "Apple iPad (2021) RU, 256 ГБ": {
+                "id": "8882104",
+                "name": "Apple iPad (2021) RU",
+                "color": "Space grey",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4529531/img_id5055941059931847753.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5220722/img_id8588230901994420980.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5313128/img_id8034576195469438489.jpeg/orig"
+                ],
+                "price": "85 690"
+            },
+
+            "Apple iPad (2021) RU, 64 ГБ": {
+                    "id": "8882105",
+                    "name": "Apple iPad (2021) RU",
+                    "color": "Space grey",
+                    "memory": "64",
+                    "family": "ipad",
+                    "type": "models",
+                    "module": "Wi-Fi + Cellular",
+                    "image": [
+                        "https://avatars.mds.yandex.net/get-mpic/4529531/img_id5055941059931847753.png/orig",
+                        "https://avatars.mds.yandex.net/get-mpic/5220722/img_id8588230901994420980.png/orig",
+                        "https://avatars.mds.yandex.net/get-mpic/5313128/img_id8034576195469438489.jpeg/orig"
+                    ],
+                    "price": "71 399"
+            },
+
+
+
+    "Apple iPad (2020) RU": {
+        "create": "2020",
+        "family": "ipad",
+        "name": "Apple iPad (2020) RU",
+        "type": "description models",
+        "specifications": [
+            "Беспроводная связь:Bluetooth, Wi-Fi",
+            "диагональ: 10.2 (2160x1620), IPS",
+            "процессор: Apple A12 Bionic",
+            "операционная система: iOS",
+            "камеры: основная 8 МП, фронтальная 1.20 МП",
+            "особенности: cканер отпечатка пальца, компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (8827 мА·ч)",
+            "размеры: 250.6x174.1x7.5 мм, вес: 490 г"
+        ],
+        "description": [
+            "Легкий путь к большим возможностям. Новый iPad способен на многое и при этом удивительно прост в использовании.",
+            "Мощный процессор A12 Bionic, поддержка Apple Pencil и Smart Keyboard, а также замечательные новые функции iPadOS 14 делают его еще более универсальным и по-настоящему уникальным устройством."
+        ]
+    },
+
+
+    "Apple iPad Pro 12.9 (2021) RU": {
+        "create": "2021",
+        "family": "ipad",
+        "name": "Apple iPad Pro 12.9 (2021) RU",
+        "type": "description models",
+        "specifications": [
+            "диагональ: 12.9 (2732x2048), 2K QHD IPS",
+            "процессор: Apple M1",
+            "операционная система: iPadOS",
+            "камеры: основная 12 МП, 10 МП, фронтальная 7 МП",
+            "особенности: компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (40.88 Вт·ч)",
+            "размеры: 280.6x214.9x6.4 мм, вес: 682 г"
+        ],
+        "description": [
+            "iPad Pro 12.9″ (2021) Wi-Fi — самый мощный планшет от компании Apple.",
+            "Особенность этой серии — уникальный чип M1, который также используется в MacBook Pro и Air, Mac mini и iMac.",
+            " Уникальные технологии чипа обеспечивают высочайшую производительность,а его энергоэффективность позволяет целый день работать без подзарядки"
+        ]
+    },
+
+            "Apple iPad Pro 12.9 (2021) RU, 8 ГБ/128 ГБ": {
+                "id": "8882106",
+                "name": "Apple iPad Pro 12.9 (2021) RU",
+                "color": "Space grey",
+                "memory": "128",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/3698270/img_id3039056419576771666.png/50x50",
+                    "https://avatars.mds.yandex.net/get-mpic/4977172/img_id7046207896065312626.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5215925/img_id5012115084979611500.jpeg/orig"
+                ],
+                "price": "98 799"               
+            },
+
+            "Apple iPad Pro 12.9 (2021) RU, 8 ГБ/256 ГБ": {
+                "id": "8882107",
+                "name": "Apple iPad Pro 12.9 (2021) RU",
+                "color": "Silver",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4732637/img_id1602506417076235483.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4252138/img_id7115150184858454386.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5289362/img_id7726783121186590297.jpeg/orig"
+                ],
+                "price": "102 500"
+            },
+
+            "Apple iPad Pro 12.9 (2021) RU, 8 ГБ/512 ГБ": {
+                "id": "8882108",
+                "name": "Apple iPad Pro 12.9 (2021) RU",
+                "color": "Space Grey",
+                "memory": "512",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/3698270/img_id3039056419576771666.png/50x50",
+                    "https://avatars.mds.yandex.net/get-mpic/4977172/img_id7046207896065312626.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5215925/img_id5012115084979611500.jpeg/orig"
+                ],
+                "price": "115 690"
+            },
+
+
+
+    "Apple iPad Air (2020) RU": {
+        "create": "2020",
+        "family": "ipad",
+        "name": "Apple iPad Air (2020) RU",
+        "type": "description models",
+        "specifications": [
+            "Беспроводная связь:Bluetooth, Wi-Fi",
+            "диагональ: 10.9 (2360x1640), Full HD IPS",
+            "процессор: Apple A14 Bionic",
+            "операционная система: iOS",
+            "камеры: основная 12 МП, фронтальная 7 МП",
+            "особенности: cканер отпечатка пальца, компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (28.6 Вт·ч)",
+            "размеры: 247.6x178.5x6.1 мм, вес: 458 г"
+        ],
+        "description": [
+            "Apple iPad Air (2020) — функциональный и быстрый планшет. Яркий дисплей Liquid Retina выводит красочную картинку.",
+            "Процессор A14 Bionic эффективно решает задачи — игры «порхают»."
+        ]
+    },
+
+            "Apple iPad Air (2020) RU, 64 ГБ": {
+                "id": "8882110",
+                "name": "Apple iPad Air (2020) RU",
+                "color": "Silver",
+                "memory": "64",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5220597/img_id4727069371032388644.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4407413/img_id7174914607530513278.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4615030/img_id7498922971306628839.jpeg/orig"
+                ],
+                "price": "67 482"     
+            }, 
+
+            "Apple iPad Air (2020) RU, 256 ГБ": {
+                "id": "8882111",
+                "name": "Apple iPad Air (2020) RU",
+                "color": "Silver",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5220597/img_id4727069371032388644.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4407413/img_id7174914607530513278.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4615030/img_id7498922971306628839.jpeg/orig"
+                ],
+                "price": "79 780",
+                "salePrice": "65 350"
+            },
+
+
+
+    "Apple iPad mini (2021) RU": {
+        "create": "2021",
+        "family": "ipad",
+        "name": "Apple iPad mini (2021) RU",
+        "type": "description models",
+        "specifications": [
+            "Беспроводная связь:Bluetooth, Wi-Fi",
+            "диагональ: 7.9 (2048x1536), Full HD IPS",
+            "процессор: Apple A12 Bionic",
+            "операционная система: iOS",
+            "камеры: основная 8 МП, фронтальная 7 МП",
+            "особенности: cканер отпечатка пальца, компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (19.1 Вт·ч)",
+            "размеры: 203.2x134.8x6.1 мм, вес: 300 г"
+        ],
+        "description": [
+            "iPad mini идеально сочетает в себе компактность и производительность — за это его и любят.",
+            "Теперь для любви появилось ещё больше поводов. Процессор A12 Bionic с системой Neural Engine."
+        ]
+    },
+
+            "Apple iPad mini (2021) RU, 64 ГБ": {
+                "id": "8882109",
+                "name": "Apple iPad mini (2021) RU",
+                "color": "pink",
+                "memory": "64",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5234495/img_id6931750257401840792.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5186016/img_id5137023965662303293.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5287705/img_id5087599574873859688.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5222168/img_id5634623427123233506.jpeg/orig"
+                ],
+                "price": "46 590"
+            },
+
+
+    "iPad Pro 11 (2021) RU": {
+        "create": "2021",
+        "family": "ipad",
+        "name": "iPad Pro 11 (2021) RU",
+        "type": "description models",
+        "specifications": [
+            "диагональ: 11 (2388x1668), Full HD IPS",
+            "процессор: Apple M1",
+            "операционная система: iPadOS",
+            "камеры: основная 12 МП, 10 МП, фронтальная 12 МП",
+            "особенности: компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр, сканер LiDAR, разблокировка по лицу",
+            "время работы: 10 ч (28.65 Вт·ч)",
+            "размеры: 247.6x178.5x5.9 мм, вес: 466 г"
+        ],
+        "description": [
+            "iPad Pro 11 (2021) Wi-Fi — очень мощный планшет от компании Apple, новинка 2021 года.",
+            "Особенность этой серии — уникальный чип M1, который также используется в MacBook Pro и Air, Mac mini и iMac."
+        ]
+    },
+
+            "Apple iPad Pro 11 (2021) RU,Silver": {
+                "id": "8882112",
+                "name": "iPad Pro 11 (2021) RU",
+                "color": "Silver",
+                "memory": "128",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5252617/img_id4236874559679475681.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5231591/img_id6163063565216948533.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5186016/img_id79787397596651861.png/orig"
+                ],
+                "price": "82 321",
+                "salePrice": "61 499",
+                "productOfTheDay": true
+            },
+
+            "Apple iPad Pro 11 (2021) RU,Space Grey": {
+                "id": "8882113",
+                "name": "iPad Pro 11 (2021) RU",
+                "color": "Space Grey",
+                "memory": "128",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5129282/img_id1415315540113341581.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4079169/img_id6547040856511080814.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5163855/img_id6094912163066408152.png/orig"
+                ],
+                "price": "83 690"
+            },
+
+
+
+    "Apple iPad Pro 11 (2020) RU": {
+        "create": "2020",
+        "family": "ipad",
+        "name": "Apple iPad Pro 11 (2020) RU",
+        "type": "description models",
+        "specifications": [
+            "диагональ: 11 (2388x1668), Full HD IPS , 120 Гц",
+            "процессор: Apple A12Z Bionic",
+            "операционная система: iPadOS",
+            "камеры: основная 12 МП, 10 МП, фронтальная 7 МП",
+            "особенности: компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр, сканер LiDAR, разблокировка по лицу",
+            "время работы: 10 ч (28.6 Вт·ч)",
+            "размеры: 247.6x178.5x5.9 мм, вес: 471 г"
+        ],
+        "description": [
+            "планшет для бизнеса, творчества, развлечений, легко справляется с 3D-играми, дисплей молниеносно отрабатывает касания.",
+            "Двойная камера создает красочные снимки.",
+            "Мощный аккумулятор гарантирует долгое время автономной работы, а четыре динамика радуют сочным стереозвуком."
+        ]
+    },
+
+            "Apple iPad Pro 11 (2020) RU, 6 ГБ/128 ГБ": {
+                "id": "8882114",
+                "name": "iPad Pro 11 (2020) RU",
+                "color": "Space Grey",
+                "memory": "128",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                   "https://avatars.mds.yandex.net/get-mpic/5255974/img_id5897638828684168611.jpeg/orig",
+                   "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                   "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "105 890"
+            },
+
+            "Apple iPad Pro 11 (2020) RU, 6 ГБ/256 ГБ": {
+                "id": "8882115",
+                "name": "iPad Pro 11 (2020) RU",
+                "color": "Space Grey",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5255974/img_id5897638828684168611.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "119 750"
+            },
+
+            "Apple iPad Pro 11 (2020) RU, 6 ГБ/512 ГБ": {
+                "id": "8882116",
+                "name": "iPad Pro 11 (2020) RU",
+                "color": "Space Grey",
+                "memory": "512",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5255974/img_id5897638828684168611.jpeg/orig",
+                   "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                   "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "140 990"
+            },
+
+            "Apple iPad Pro 11 (2020) RU, 6 ГБ/1024 ГБ": {
+                "id": "8882117",
+                "name": "iPad Pro 11 (2020) RU",
+                "color": "Space Grey",
+                "memory": "1024",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5255974/img_id5897638828684168611.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "158 010"
+            },
+
+
+    "Apple iPad Pro 12.9 (2020) RU": {
+        "create": "2020",
+        "family": "ipad",
+        "name": "Apple iPad Pro 12.9 (2020) RU",
+        "type": "description models",
+        "specifications": [
+            "диагональ: 12.9 (2732x2048), 2K QHD IPS , 120 Гц",
+            "процессор: Apple A12Z Bionic",
+            "операционная система: iPadOS",
+            "камеры: основная 12 МП, 10 МП, фронтальная 7 МП",
+            "особенности: компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр, сканер LiDAR, разблокировка по лицу",
+            "время работы: 10 ч (36.7 Вт·ч)",
+            "размеры: 280.6x214.9x5.9 мм, вес: 641 г"
+        ],
+        "description": [
+            "Ваш будущий компьютер - теперь не компьютер Это удивительное устройство, которое творит чудеса. ",
+            " И справляется с задачами быстрее многих ноутбуков. У него две камеры уровня Pro, которые позволяют менять реальность. Это новый iPad Pro."
+        ]
+    },
+
+            "Apple iPad Pro 12.9 (2020) RU, 6 ГБ/128 ГБ": {
+                "id": "8882118",
+                "name": "Apple iPad Pro 12.9 (2020) RU",
+                "color": "Space Grey",
+                "memory": "128",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4732637/img_id1602506417076235483.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "100 010"
+            },
+            
+            "Apple iPad Pro 12.9 (2020) RU, 6 ГБ/256 ГБ": {
+                "id": "8882119",
+                "name": "Apple iPad Pro 12.9 (2020) RU",
+                "color": "Space Grey",
+                "memory": "256",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5255974/img_id5897638828684168611.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "103 510"
+            },    
+
+            "Apple iPad Pro 12.9 (2020) RU, 6 ГБ/512 ГБ": {
+                "id": "8882120",
+                "name": "Apple iPad Pro 12.9 (2020) RU",
+                "color": "Space Grey",
+                "memory": "512",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4732637/img_id1602506417076235483.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "115 190"
+            },    
+
+            "Apple iPad Pro 12.9 (2020) RU, 6 ГБ/1024 ГБ": {
+                "id": "8882121",
+                "name": "Apple iPad Pro 12.9 (2020) RU",
+                "color": "Space Grey",
+                "memory": "1024",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5255974/img_id5897638828684168611.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4353087/img_id4024170320381963486.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4462738/img_id17206124622109144.jpeg/orig"
+                ],
+                "price": "138 990"
+            },    
+
+
+    "Apple iPad Pro 12.9 (2018)": {
+        "create": "2018",
+        "family": "ipad",
+        "name": "Apple iPad Pro 12.9 (2018)",
+        "type": "description models",
+        "specifications": [
+            "Беспроводная связь:Bluetooth, Wi-Fi",
+            "диагональ: 12.9 (2732x2048), 2K QHD IPS",
+            "процессор: Apple A12X Bionic",
+            "операционная система: iOS",
+            "камеры: основная 12 МП, фронтальная 7 МП",
+            "особенности: компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (36.7 Вт·ч)",
+            "размеры: 280.6x214.9x5.9 мм, вес: 631 г"
+        ],
+        "description": []
+    },
+
+    "Apple iPad Pro 12.9 (2018) 1024 ГБ": {
+        "id": "8882122",
+        "name": "Apple iPad Pro 12.9 (2018)",
+        "color": "Silver",
+        "memory": "1024",
+        "family": "ipad",
+        "type": "models",
+        "module": "Wi-Fi + Cellular",
+        "image": [
+            "https://avatars.mds.yandex.net/get-mpic/4219828/img_id3371345944095134588.jpeg/13hq",
+            "https://avatars.mds.yandex.net/get-mpic/4736439/img_id9007372165753077503.jpeg/13hq",
+            "https://avatars.mds.yandex.net/get-mpic/4705079/img_id3070531150661310448.jpeg/13hq",
+            "https://avatars.mds.yandex.net/get-mpic/4342845/img_id6799022918218991513.jpeg/13hq"
+        ],
+        "price": "158 390"
+    },    
+
+
+    "Apple iPad Pro 11 (2018)": {
+        "create": "2018",
+        "family": "ipad",
+        "name": "Apple iPad Pro 11 (2018)",
+        "type": "description models",
+        "specifications": [
+            "Беспроводная связь:Bluetooth, Wi-Fi",
+            "диагональ: 11 (2388x1668), Full HD IPS , 120 Гц",
+            "процессор: Apple A12X Bionic",
+            "операционная система: iOS",
+            "камеры: основная 12 МП, фронтальная 7 МП",
+            "особенности: компас, гироскоп, акселерометр, встроенный микрофон, датчик освещенности, барометр",
+            "время работы: 10 ч (29.4 Вт·ч)",
+            "вес: 468 г"
+        ],
+        "description": []
+    },
+
+            "Apple iPad Pro 11 (2018) 512 ГБ": {
+                "id": "8882123",
+                "name": "Apple iPad Pro 11 (2018)",
+                "color": "Silver",
+                "memory": "512",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/4219828/img_id3371345944095134588.jpeg/13hq",
+                    "https://avatars.mds.yandex.net/get-mpic/4736439/img_id9007372165753077503.jpeg/13hq",
+                    "https://avatars.mds.yandex.net/get-mpic/4705079/img_id3070531150661310448.jpeg/13hq",
+                    "https://avatars.mds.yandex.net/get-mpic/4342845/img_id6799022918218991513.jpeg/13hq"
+                ],
+                "price": "140 890"
+            },    
+
+
+    "iPad Pro 11 (2021) 2Tb": {
+        "create": "2021",
+        "family": "ipad",
+        "name": "iPad Pro 11 (2021) 2Tb",
+        "type": "description models",
+        "specifications": [
+            "Объем встроенной памяти:до 8 ГБ",
+            "встроенная память: до 8 ГБ"
+        ],
+        "description": []
+    },
+
+            "Apple iPad Pro 11 (2018) 2 ТБ": {
+                "id": "8882124",
+                "name": "iPad Pro 11 (2021) 2Tb",
+                "color": "Silver",
+                "memory": "2048",
+                "family": "ipad",
+                "type": "models",
+                "module": "Wi-Fi + Cellular",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5204675/img_id8213792994513643046.png/orig"
+                ],
+                "price": "144 900"
+            }
+}

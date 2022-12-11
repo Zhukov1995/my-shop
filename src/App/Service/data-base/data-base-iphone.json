@@ -1,0 +1,761 @@
+{
+    "Apple iPhone 7": {
+        "create": 2017,
+        "family": "iphone",
+        "name": "Apple iPhone 7",
+        "type": "description models",
+        "specifications": [
+            "Экран: 4.7 (1334x7750) IPS 60 Гц",
+            "Встроенная память: 32 ГБ",
+            "Оперативная память: 2 ГБ",
+            "Камера: 12 МП",
+            "Аккумулятор: 1960 мА·ч",
+            "Процессор Apple A10 Fusion",
+            "SIM-карты: 1 (nano SIM)",
+            "Операционная система: iOS 10",
+            "Беспроводные интерфейсы  NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 3G",
+            "Степень защиты: погружение в воду, защита от брызг, IP67",
+            "Вес: 138 г"
+        ],
+        "description": [
+            "Чем так хорош смартфон Apple iPhone 7? Смотрите сами. Дисплей Retina HD с улучшенной системой цветопередачи на 25% ярче прошлых моделей и передает все оттенки реальных объектов максимально точно.",
+            "Алюминиевый корпус толщиной в 7.1 миллиметра защищает смартфон от ударов и брызг. А экран Apple iPhone 7 покрыт олеофобным стеклом.",
+            "Технологии Bluetooth 4.2 и NFC гарантируют легкий обмен информацией.",
+            "Поддержка систем GPS, A-GPS и ГЛОНАСС обеспечит вам максимальную быстроту и точность гепозиционирования, загрузку карт и прокладку маршрута."
+        ]
+    },
+    
+        "Apple iPhone 7 (2017), 32ГБ Black": {
+            "id": "7778301",
+            "color": "black",
+            "name": "Apple iPhone 7",
+            "memory": "32",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5252617/img_id3680753824268263737.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/466729/img_id3519660028343633744.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/1859063/img_id4109987386688090174.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5221145/img_id5436341924381639008.jpeg/orig"
+            ],
+            "price": "29 990"
+        },
+
+        "Apple iPhone 7 (2017), 128ГБ Red": {
+            "id": "7778302",
+            "color": "red",
+            "name": "Apple iPhone 7",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4575382/img_id1682324873034285047.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/466729/img_id5074426843449101979.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/331398/img_id7110655480195890269.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/397397/img_id3820558373405080288.jpeg/orig"
+            ],
+            "price": "32 990"
+        },
+
+    "Apple iPhone 7 Plus": {
+        "create": 2017,
+        "family": "iphone",
+        "name":"Apple iPhone 7 Plus",
+        "type": "description models",
+        "specifications": [
+            "Экран: 5.5 (1920x1080) IPS",
+            "Встроенная память: 32 ГБ",
+            "Оперативная память: 3 ГБ",
+            "Двойная камера: 12 МП, 12 МП",
+            "Аккумулятор: 2900 мА·ч",
+            "Процессор: Apple A10 Fusion",
+            "SIM-карты: 1 (nano SIM)",
+            "Операционная система: iOS 10",
+            "Беспроводные интерфейсы: NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 3G",
+            "Степень защиты: IP67",
+            "Вес: 188 г"
+        ],
+        "description": [
+            "iPhone 7 Plus сохранил размеры предыдущей версии, 'скинув' при этом 5 грамм. В дизайне устройства применен принцип unibody.",
+            "В результате специальной обработки алюминиевого корпуса, металл имеет вид стекла и сливается с ним. Возникает ощущение полного слияния металла со стеклом.",
+            "5,5-дюймовый экран HD Retina с разрешением 1920 x 1080 пикселей получил на 25% больше яркости.",
+            "Пользоваться iPhone 7 Plus в солнечную погоду стало еще удобнее. Но по-настоящему новые ощущения дарит технология 3D Touch с тактильным откликом."
+        ]
+    },
+
+        "Apple iPhone 7 Plus (2017),32ГБ Pink Gold": {
+            "id": "7778303",
+            "color": "pink gold",
+            "name": "Apple iPhone 7 Plus",
+            "memory": "32",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5222340/img_id5230790987909363020.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/372220/img_id9130616206928209100.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/200316/img_id2913105324312019006.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4114383/img_id4870478303616025848.jpeg/orig"
+            ],
+            "price": "36 990"
+        },
+
+    "Apple iPhone 8" : {
+        "create": 2018,
+        "family": "iphone",
+        "name": "Apple iPhone 8",
+        "type": "description models",
+        "specifications": [
+            "Экран: 4.7 (1334x750) IPS",
+            "Оперативная память: 2 ГБ",
+            "Двойная камера: 12 МП",
+            "Аккумулятор: 1821 мА·ч",
+            "Процессор: Apple A11 Bionic",
+            "SIM-карты: 1 (nano SIM)",
+            "Операционная система: iOS 11",
+            "Беспроводные интерфейсы: NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 3G",
+            "Степень защиты: IP67",
+            "Вес: 148 г"
+        ],
+        "description": [
+            "Передняя и задняя панели выполнены из самого прочного стекла, когда-либо созданного для iPhone, а рамка — из алюминия, применяемого в аэрокосмической отрасли.",
+            "iPhone 8 заряжается без проводов. Защищён от воды и пыли. Оснащён дисплеем Retina HD 4,7 дюйма с технологией True Tone.",
+            "Всё это работает на A11 Bionic — самом мощном и умном процессоре iPhone. И ещё iPhone 8 и iPhone 8 Plus поддерживают дополненную реальность в играх и приложениях.",
+            "iPhone 8 — никогда ещё интеллект не был в такой прекрасной форме."
+        ]
+    },
+
+        "Apple iPhone 8 (2018),64Гб Gold": {
+            "id": "7778304",
+            "color": "gold",
+            "name": "Apple iPhone 8",
+            "memory": "64",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5228636/img_id3761806906751815025.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5332938/img_id67191877603763656.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5313128/img_id7478765141175422262.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5234026/img_id5184482504907611031.png/orig"
+            ],
+            "price": "38 990"
+        },
+
+        "Apple iPhone 8 (2018),256Гб Silver": {
+            "id": "7778305",
+            "color": "silver",
+            "name": "Apple iPhone 8",
+            "memory": "256",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5234495/img_id6160513146005165916.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/397397/img_id5884020777317127249.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/1642819/img_id7743219929331549866.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/397397/img_id1049796385688383072.jpeg/orig"
+            ],
+            "price": "41 490"
+        },
+
+        "Apple iPhone 8 (2018),128Гб Black": {
+            "id": "7778306",
+            "color": "black",
+            "name": "Apple iPhone 8",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5234850/img_id6952931102294358727.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4948493/img_id161075032022215963.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/466729/img_id2120181388893803514.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/364668/img_id60492596652479418.jpeg/orig"
+            ],
+            "price": "39 990"
+        },
+
+    "Apple iPhone X": {
+        "create": 2018,
+        "family": "iphone",
+        "name": "Apple iPhone X",
+        "type": "description models",
+        "specifications": [
+            "Экран: 5.8 (2436x1125) 60 Гц",
+            "Оперативная память: 3 ГБ",
+            "Двойная камера: 12 МП",
+            "Аккумулятор: 2700 мА·ч",
+            "Процессор: Apple A11 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 11",
+            "Беспроводные интерфейсы: NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 3G",
+            "Степень защиты: IP67",
+            "Вес: 195 г"
+        ],
+        "description": [
+            "iPhone X — невероятно мощный смартфон с фирменным дизайном Apple.",
+            "Корпус и экран изготовлены из ударопрочного стекла, на 50% более толстого, чем у предыдущих моделей. ",
+            "Рамка корпуса Apple iPhone X изготовлена из хирургической стали, а внутреннее пространство надёжно защищено от проникновения влаги и пыли.",
+            "Инновационный OLED-дисплей Super Retina HD невероятно точно передаёт цвета, без искажений отображая все нюансы оттенков и демонстрируя реалистичное изображение даже в углах экрана."
+        ]
+    },
+
+        "Apple iPhone X (2018),256ГБ Space Gray": {
+            "id": "7778307",
+            "color": "space gray",
+            "name": "Apple iPhone X",
+            "memory": "256",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5207395/img_id6932620619165240258.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5239537/img_id8315979938653256538.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5228105/img_id605257510284667244.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5289692/img_id8914956162346113421.png/orig"
+            ],
+            "price": "57 330"
+        },
+
+    "Apple iPhone Xs": {
+        "create": 2019,
+        "family": "iphone",
+        "name": "Apple iPhone Xs",
+        "type": "description models",
+        "specifications": [
+            "Экран: 5.8(2436x1125) 60 Гц",
+            "Оперативная память: 4 ГБ",
+            "Двойная камера: 12 МП",
+            "Аккумулятор: 3174 мА·ч",
+            "Процессор: Apple A12 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 12",
+            "Беспроводные интерфейсы: NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 3G",
+            "Степень защиты: IP67",
+            "Вес: 185 г"
+        ],
+        "description": [
+            "iPhone XS оснащён HDR-дисплеем Super Retina с диагональю 5,8 дюйма.",
+            "Панели OLED обеспечивают наилучшую цветопередачу, глубокие чёрные цвета и впечатляющую яркость.",
+            "С улучшенной технологией FaceID можно безопасно разблокировать iPhone, входить в учётные записи приложений и оплачивать покупки буквально одним взглядом.",
+            "Процессор A12 Bionic с системой Neural Engine нового поколения использует технологии машинного обучения и открывает невероятные возможности для фотографии, игр, дополненной реальности и многого другого."
+        ]
+    },
+
+        "Apple iPhone Xs (2019),256ГБ Space Gray": {
+            "id": "7778308",
+            "color": "space gray",
+            "name": "Apple iPhone Xs",
+            "memory": "256",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/1912364/img_id2264559175193642486.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4397502/img_id5874472601617474052.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/1923211/img_id186158490052046956.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4497593/img_id1774564539268962998.jpeg/orig"
+            ],
+            "price": "54 999"
+        },
+
+    "Apple iPhone Xr": {
+        "create": 2019,
+        "family": "iphone",
+        "name": "Apple iPhone Xr",
+        "type": "description models",
+        "specifications": [
+            "Экран: 6.1 (1792x828) 60 Гц",
+            "Оперативная память: 3 ГБ",
+            "Двойная камера: 12 МП",
+            "Аккумулятор: 2942 мА·ч",
+            "Процессор: Apple A12 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 12",
+            "Беспроводные интерфейсы: NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 3G",
+            "Степень защиты: IP67",
+            "Вес: 179 г"
+        ],
+        "description": [
+            "iPhone XR оснащен самым передовым ЖК дисплеем iPhone-Liquid Retina 6,1 с потрясающими цветами.",
+            "Инновационные технологии подсветки позволили создать экран, округленный по углам и занимающий всю переднюю панель.",
+            "Процессор A12 Bionic с нейронной системой нового поколения использует технологии машинного обучения и предлагает невероятные возможности в области фотографии, игр.",
+            "Передовая технология Face ID позволяет быстро разблокировать устройство и подключиться к приложениям."
+        ]
+    },
+
+        "Apple iPhone Xr (2019),128ГБ Yellow": {
+            "id": "7778309",
+            "color": "yellow",
+            "name": "Apple iPhone Xr",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5289292/img_id953374132473285419.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5288039/img_id2172092628786241501.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4490717/img_id4658174762191697315.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5332113/img_id1733520093368141700.png/orig"
+            ],
+            "price": "47 430"
+        },
+
+        "Apple iPhone Xr (2019),128ГБ Coral": {
+            "id": "7778310",
+            "color": "coral",
+            "name": "Apple iPhone Xr",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5229821/img_id1193027558933592988.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5222340/img_id5488206753050348558.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4490717/img_id4658174762191697315.png/orig"
+            ],
+            "price": "48 990"
+        },
+
+        "Apple iPhone Xr (2019),64ГБ White": {
+            "id": "7778311",
+            "color": "coral",
+            "name": "Apple iPhone Xr",
+            "memory": "64",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5254153/img_id4763996483151054007.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5256693/img_id4564209405221671683.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4709279/img_id6716933290399542766.png/orig"
+            ],
+            "price": "44 490"
+        },
+
+    "Apple iPhone 11": {
+        "create": 2019,
+        "family": "iphone",
+        "name": "Apple iPhone 11",
+        "type": "description models",
+        "specifications": [
+            "Экран: 6.1 (1792x828)",
+            "Оперативная память: 4 ГБ",
+            "Двойная камера: 12 МП",
+            "Аккумулятор: 3110 мА·ч",
+            "Процессор: Apple A13 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 13",
+            "Вес: 182 г"
+        ],
+        "description": [
+            "Функциональный и стильный смартфон Apple iPhone 11 в металлическом корпусе способен обеспечить не только повседневное общение и развлечения, но и продуктивную работу.",
+            "Изображение на экране смартфона Apple iPhone 11 диагональю 6.1 дюйма обладает поразительной детализацией и цветопередачей.",
+            "Олеофобное покрытие исключает сильное загрязнение экрана. Корпус смартфона имеет высокую степень пылевлагозащиты (IP68), благодаря чему обеспечивается эффективная и длительная работа устройства.",
+            "Несъемный аккумулятор емкостью 3110 мА·ч поддерживает беспроводную зарядку, что сделает данный процесс более легким и быстрым."
+        ]
+    },
+
+        "Apple iPhone 11 (2019),64ГБ Purple": {
+            "id": "7778312",
+            "color": "purple",
+            "name": "Apple iPhone 11",
+            "memory": "64",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4080064/img_id8109488739423124283.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4568822/img_id8722282494131908693.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4493022/img_id6504049150655713557.jpeg/orig"
+            ],
+            "price": "57 245"
+        },
+
+        "Apple iPhone 11 (2019),128ГБ Red": {
+            "id": "7778313",
+            "color": "red",
+            "name": "Apple iPhone 11",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4410238/img_id8271207634071910152.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5228682/img_id2097358061791733430.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4076910/img_id1376347389055387937.jpeg/orig"
+            ],
+            "price": "63 499"
+        },
+
+        "Apple iPhone 11 (2019),128ГБ Black": {
+            "id": "7778314",
+            "color": "black",
+            "name": "Apple iPhone 11",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4076910/img_id8024132438698652359.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5319329/img_id6145316957765291614.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4080064/img_id5142845353575647946.jpeg/orig"
+            ],
+            "price": "63 499"
+        },
+
+    "Apple iPhone 11 Pro Max": {
+        "create": 2019,
+        "family": "iphone",
+        "name": "Apple iPhone 11 Pro Max",
+        "type": "description models",
+        "specifications": [
+            "Экран: 6.1 (1792x828)",
+            "Оперативная память: 4 ГБ",
+            "Двойная камера: 12 МП",
+            "Аккумулятор: 3110 мА·ч",
+            "Процессор: Apple A13 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 13",
+            "Вес: 182 г"
+        ],
+        "description": [
+            "Функциональный и стильный смартфон Apple iPhone 11 в металлическом корпусе способен обеспечить не только повседневное общение и развлечения, но и продуктивную работу.",
+            "Изображение на экране смартфона Apple iPhone 11 диагональю 6.1 дюйма обладает поразительной детализацией и цветопередачей.",
+            "Олеофобное покрытие исключает сильное загрязнение экрана. Корпус смартфона имеет высокую степень пылевлагозащиты (IP68), благодаря чему обеспечивается эффективная и длительная работа устройства.",
+            "Несъемный аккумулятор емкостью 3110 мА·ч поддерживает беспроводную зарядку, что сделает данный процесс более легким и быстрым."
+        ]
+    },
+
+        "Apple iPhone 11 Pro Max (2019),64ГБ Black": {
+            "id": "7778315",
+            "color": "black",
+            "name": "Apple iPhone 11 Pro Max",
+            "memory": "64",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5231591/img_id7649461153446555896.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5316009/img_id4231226708344915760.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5215925/img_id7521035644809135041.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5365919/img_id3176106715556383009.jpeg/orig"
+            ],
+            "price": "122 999"
+        },
+
+        "Apple iPhone 11 Pro Max (2019),512ГБ Black": {
+            "id": "7778316",
+            "color": "black",
+            "name": "Apple iPhone 11 Pro Max",
+            "memory": "512",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5231591/img_id7649461153446555896.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5316009/img_id4231226708344915760.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5215925/img_id7521035644809135041.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5365919/img_id3176106715556383009.jpeg/orig"
+            ],
+            "price": "160 235"
+        },
+
+    "Apple iPhone SE": {
+        "create": 2020,
+        "family": "iphone",
+        "name": "Apple iPhone SE",
+        "type": "description models",
+        "specifications": [
+            "Экран: 4.7 (1334x750) 60 Гц",
+            "Оперативная память: 3 ГБ",
+            "Аккумулятор: 1821 мА·ч",
+            "Процессор: Apple A13 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 13"
+        ],
+        "description": [
+            "iPhone SE — это самый мощный компактный iPhone с множеством передовых технологий.",
+            " A13 Bionic — самый быстрый процессор для iPhone, обеспечивающий максимальную производительность для приложений, игр и фотосъёмки.",
+            "Портретный режим и шесть эффектов освещения для фотографий студийного качества.",
+            "Технология Smart HDR нового поколения для невероятной детализации даже в светлых и тёмных областях кадра."
+        ]
+    },
+
+        "Apple iPhone SE (2020),64ГБ Black": {
+            "id": "7778317",
+                "color": "black",
+                "name": "Apple iPhone SE",
+                "memory": "64",
+                "family": "iphone",
+                "type": "models",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5316009/img_id3203676476596901018.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5376414/img_id9106276517050355400.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/3927509/img_id2540442600966346222.jpeg/orig"
+                ],
+                "price": "81 449"
+        },
+
+        "Apple iPhone SE (2020),128ГБ White": {
+            "id": "7778318",
+                "color": "white",
+                "name": "Apple iPhone SE",
+                "memory": "128",
+                "family": "iphone",
+                "type": "models",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5425309/img_id8041282677742130028.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4399709/img_id1708081247955335096.jpeg/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/4415357/img_id5347053667155614135.jpeg/orig"
+                ],
+                "price": "91 649"
+        },
+
+        "Apple iPhone SE (2020),128ГБ Red": {
+            "id": "7778319",
+                "color": "red",
+                "name": "Apple iPhone SE",
+                "memory": "128",
+                "family": "iphone",
+                "type": "models",
+                "image": [
+                    "https://avatars.mds.yandex.net/get-mpic/5253277/img_id6699617174512592440.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/5228636/img_id464316408375026948.png/orig",
+                    "https://avatars.mds.yandex.net/get-mpic/2017118/img_id5901194526869801145.jpeg/orig"
+                ],
+                "price": "92 849"
+        },
+
+    "Apple iPhone 12 Pro": {
+        "create": 2020,
+        "family": "iphone",
+        "name": "Apple iPhone 12 Pro",
+        "type": "description models",
+        "specifications": [
+            "Экран: 6.1 (2532x1170) OLED 60 Гц",
+            "Оперативная память: 6 ГБ",
+            "3 камеры: 12 МП, 12 МП, 12 МП",
+            "Аккумулятор: 2775 мА·ч",
+            "Процессор: Apple A14 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 14",
+            "Беспроводные интерфейсы: NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 5G, 3G",
+            "Степень защиты: IP68",
+            "Вес: 187 г"
+        ],
+        "description": [
+            "Привет, скорость! Полный красок 6,1-дюймовый дисплей Super Retina XDR.",
+            "Передняя панель с инновационной технологией Ceramic Shield, снижает риск повреждения дисплея в 4 раза.",
+            "Потрясающая четкость изображения при недостаточной освещенности во время съемки с ночным режимом. ",
+            "Усовершенствованная система камер большой тройки с четырехкратным оптическим зумом."
+        ]
+    },
+
+        "Apple iPhone 12 Pro (2020),128ГБ Gold": {
+            "id": "7778320",
+            "color": "gold",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4944925/img_id8691700696868164791.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5163819/img_id7797005456381771239.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5290046/img_id3674600819213891406.jpeg/orig"
+            ],
+            "price": "142 188"
+        },
+
+        "Apple iPhone 12 Pro (2020),128ГБ Blue": {
+            "id": "7778321",
+            "color": "blue",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+            "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1194317454008751196.png/orig",
+            "https://avatars.mds.yandex.net/get-mpic/5246132/img_id2784705464723384766.jpeg/orig",
+            "https://avatars.mds.yandex.net/get-mpic/5222613/img_id8367207436176774955.jpeg/orig"
+            ],
+            "price": "149 970",
+            "newProduct": "true"
+        },
+
+        "Apple iPhone 12 Pro (2020),128ГБ Silver": {
+            "id": "7778322",
+            "color": "silver",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "128",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4076910/img_id4257786938655538831.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5425309/img_id6823239893454676111.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5221929/img_id9165484947778163410.jpeg/orig"
+            ],
+            "price": "162 790",
+            "newProduct": "true"
+        },
+
+        "Apple iPhone 12 Pro (2020),256ГБ Gold": {
+            "id": "7778323",
+            "color": "gold",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "256",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4944925/img_id8691700696868164791.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5163819/img_id7797005456381771239.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5290046/img_id3674600819213891406.jpeg/orig"
+            ],
+            "price": "154 290",
+            "salePrice": "142 999"
+        },
+
+        "Apple iPhone 12 Pro (2020),256ГБ Blue": {
+            "id": "7778324",
+            "color": "blue",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "256",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1194317454008751196.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5246132/img_id2784705464723384766.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5222613/img_id8367207436176774955.jpeg/orig"
+            ],
+            "price": "144 990",
+            "salePrice": "142 999"
+        },
+
+        "Apple iPhone 12 Pro (2020),256ГБ Silver": {
+            "id": "7778325",
+            "color": "silver",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "256",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4076910/img_id4257786938655538831.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5425309/img_id6823239893454676111.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5221929/img_id9165484947778163410.jpeg/orig"
+            ],
+            "price": "144 990"
+        },
+
+        "Apple iPhone 12 Pro (2020),512ГБ Gold": {
+            "id": "7778326",
+            "color": "gold",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "512",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4944925/img_id8691700696868164791.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5163819/img_id7797005456381771239.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5290046/img_id3674600819213891406.jpeg/orig"
+            ],
+            "price": "157 188",
+            "salePrice": "142 999"
+        },
+
+        "Apple iPhone 12 Pro (2020),512ГБ Blue": {
+            "id": "7778327",
+            "color": "blue",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "512",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4415357/img_id1194317454008751196.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5246132/img_id2784705464723384766.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5222613/img_id8367207436176774955.jpeg/orig"
+            ],
+            "price": "156 188",
+            "salePrice": "142 999"
+        },
+
+        "Apple iPhone 12 Pro (2020),512ГБ Silver": {
+            "id": "7778328",
+            "color": "silver",
+            "name": "Apple iPhone 12 Pro",
+            "memory": "512",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4076910/img_id4257786938655538831.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5425309/img_id6823239893454676111.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5221929/img_id9165484947778163410.jpeg/orig"
+            ],
+            "price": "155 988"
+        },
+
+    "Apple iPhone 12 Pro Max": {
+        "create": 2020,
+        "family": "iphone",
+        "name": "Apple iPhone 12 Pro Max",
+        "type": "description models",
+        "specifications": [
+            "Экран: 6.7 (2778x1284) OLED 60 Гц",
+            "Оперативная память: 6 ГБ",
+            "3 камеры: 12 МП, 12 МП, 12 МП",
+            "Аккумулятор: 3687 мА·ч",
+            "Процессор: Apple A14 Bionic",
+            "SIM-карты: 1",
+            "Операционная система: iOS 14",
+            "Беспроводные интерфейсы: NFC, Bluetooth, Wi-Fi",
+            "Стандарт связи: 4G LTE, 5G, 3G",
+            "Степень защиты: IP68",
+            "Вес: 226 г"
+        ],
+        "description": [
+            "Apple iPhone 12 Pro Max — бескомпромиссный и престижный смартфон. Возможности гаджета восхищают.",
+            " Ультрабыстрый процессор A14 Bionic заставляет игры «летать».",
+            " Система Pro-камер удивляет реалистичными видео Dolby Vision.",
+            "Всеобщий ночной режим впечатляет качеством фотографий, снятых при недостатке света."
+        ]
+    },
+
+        "Apple iPhone 12 Pro Max (2020),256ГБ Gold": {
+            "id": "7778329",
+            "color": "gold",
+            "name": "Apple iPhone 12 Pro Max",
+            "memory": "256",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5231781/img_id4954272545518534939.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4033296/img_id2433606145735613076.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5425309/img_id8422243332071337511.jpeg/orig"
+            ],
+            "price": "152 900"
+        },
+
+        "Apple iPhone 12 Pro Max (2020),512ГБ Gold": {
+            "id": "7778330",
+            "color": "gold",
+            "name": "Apple iPhone 12 Pro Max",
+            "memory": "512",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/5231781/img_id4954272545518534939.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/4033296/img_id2433606145735613076.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5425309/img_id8422243332071337511.jpeg/orig"
+            ],
+            "price": "188 290"
+        },
+
+        "Apple iPhone 12 Pro Max (2020),512ГБ Black": {
+            "id": "7778331",
+            "color": "black",
+            "name": "Apple iPhone 12 Pro Max",
+            "memory": "512",
+            "family": "iphone",
+            "type": "models",
+            "image": [
+                "https://avatars.mds.yandex.net/get-mpic/4794494/img_id7969056159827924538.png/orig",
+                "https://avatars.mds.yandex.net/get-mpic/1866085/img_id2785701176540720973.jpeg/orig",
+                "https://avatars.mds.yandex.net/get-mpic/5312584/img_id4933809227630716867.jpeg/orig"
+            ],
+            "price": "188 290"
+        }
+
+}
