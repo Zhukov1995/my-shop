@@ -61,7 +61,7 @@ const MainPage = () => {
                     </p>
                 </Section>
                 <Section title={'НОВИНКИ'}>
-                    <Carousel slidesToShow={4}>
+                    <Carousel slidesToShow={3}>
                         {showNewModels} 
                     </Carousel>
                 </Section>
@@ -69,7 +69,7 @@ const MainPage = () => {
                    <Advantages/>
                 </Section>
                 <Section title={'АКЦИОННЫЕ ТОВАРЫ'}>
-                    <Carousel slidesToShow={4}>
+                    <Carousel slidesToShow={3}>
                         {showSaleModels} 
                     </Carousel>
                 </Section>
