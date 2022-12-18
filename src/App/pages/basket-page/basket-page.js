@@ -34,6 +34,7 @@ const BasketPage = () => {
             image={item[0][1].image[0]}
             title={item[0][1].name}
             price={item[0][1].price}
+            salePrice={item[0][1].salePrice}
             color={item[0][1].color}
             memory={item[0][1].memory}
             key={index}
@@ -57,7 +58,8 @@ const BasketPage = () => {
         array.forEach(id => {
             const item = service.getTargetModel(id);
             const priceItem = +item[0][1].price.split(' ').join('');
-            localSum += priceItem
+            const priceOrSale = item[0][1].salePrice ? +item[0][1].salePrice.split(' ').join('') : priceItem;
+            localSum += priceOrSale;
         })
         localSum = formatMoney(localSum)
         dispatch(calculateAllSumBasket(localSum))

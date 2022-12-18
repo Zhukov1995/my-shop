@@ -14,7 +14,7 @@ import './card-basket.scss';
 import deleteImg from './delete.svg'
 
 const CardBasket = (props) => {
-    const { image, title, price, color, memory, item } = props;
+    const { image, title, price, salePrice, color, memory, item } = props;
 
     const [itemCounter, setItemCounter] = useState(1);
 
@@ -65,6 +65,16 @@ const CardBasket = (props) => {
         }
     }
 
+    const stylePrice = {
+        textDecoration: 'line-through',
+        color: 'silver',
+    }
+
+    const showPrice = salePrice ? <div>
+        <p style={stylePrice}>{price} руб</p>
+        <span>{salePrice} руб</span>
+    </div> : <div>{price} руб</div>;
+
 
     return (
         <div className="card-basket">
@@ -77,7 +87,7 @@ const CardBasket = (props) => {
                 {itemCounter}
                 <button onClick={() => deleteIDBasket(item[1].id)}>-</button>
             </div>
-            <div className="price">{price} руб</div>
+            <div className="price">{showPrice}</div>
             <div className="delete">
                 
                 <button onClick = {() => deleteTargetCardBasket(item[1].id)}>
